@@ -1,0 +1,18 @@
+1、安装node.js，安装完node.js之后，npm也会自动安装  node.js地址https://nodejs.org/en/
+ 
+node -v   npm -v 查看是否安装成功
+
+
+2.npm install --global vue-cli  全局安装脚手架工具vue-cli
+
+3、vue项目初始化命令如下，若没有安装webpack，则先安装webpack
+
+npm install -g webpack
+
+vue init webpack myVue
+
+进到 myVue目录  npm install 安装package.json包中的依赖
+
+
+
+
